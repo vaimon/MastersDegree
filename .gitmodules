@@ -1,0 +1,3 @@
+[submodule "Summarizer"]
+	path = Summarizer
+	url = https://github.com/vaimon/Summarizer
